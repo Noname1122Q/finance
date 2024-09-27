@@ -1,0 +1,108 @@
+"filename", "language", "JSON with Comments", "TypeScript JSX", "TypeScript", "JSON", "CSV", "SQL", "JavaScript", "CSS", "Markdown", "comment", "blank", "total"
+"c:\Users\Administrator\Desktop\finance\.eslintrc.json", "JSON", 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\Administrator\Desktop\finance\README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 0, 23, 0, 14, 37
+"c:\Users\Administrator\Desktop\finance\app\(auth)\sign-in\[[...sign-in]]\page.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 3, 30
+"c:\Users\Administrator\Desktop\finance\app\(auth)\sign-up\[[...sign-up]]\page.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 3, 30
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\accounts\actions.tsx", "TypeScript JSX", 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 7, 65
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\accounts\columns.tsx", "TypeScript JSX", 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 4, 59
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\accounts\page.tsx", "TypeScript JSX", 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 7, 63
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\categories\actions.tsx", "TypeScript JSX", 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 7, 65
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\categories\columns.tsx", "TypeScript JSX", 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 4, 59
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\categories\page.tsx", "TypeScript JSX", 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 7, 63
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\layout.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\page.tsx", "TypeScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 2, 13
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\account-column.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\actions.tsx", "TypeScript JSX", 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 8, 66
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\category-column.tsx", "TypeScript JSX", 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 5, 43
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\columns.tsx", "TypeScript JSX", 0, 148, 0, 0, 0, 0, 0, 0, 0, 0, 4, 152
+"c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\page.tsx", "TypeScript JSX", 0, 93, 0, 0, 0, 0, 0, 0, 0, 0, 13, 106
+"c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\accounts.ts", "TypeScript", 0, 0, 143, 0, 0, 0, 0, 0, 0, 0, 24, 167
+"c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\categories.ts", "TypeScript", 0, 0, 143, 0, 0, 0, 0, 0, 0, 0, 24, 167
+"c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\route.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 6, 21
+"c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\transactions.ts", "TypeScript", 0, 0, 243, 0, 0, 0, 0, 0, 0, 0, 33, 276
+"c:\Users\Administrator\Desktop\finance\app\globals.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 86, 0, 0, 7, 93
+"c:\Users\Administrator\Desktop\finance\app\layout.tsx", "TypeScript JSX", 0, 31, 0, 0, 0, 0, 0, 0, 0, 1, 5, 37
+"c:\Users\Administrator\Desktop\finance\components.json", "JSON", 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 20
+"c:\Users\Administrator\Desktop\finance\components\AmountInput.tsx", "TypeScript JSX", 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 8, 79
+"c:\Users\Administrator\Desktop\finance\components\DataTable.tsx", "TypeScript JSX", 0, 169, 0, 0, 0, 0, 0, 0, 0, 0, 7, 176
+"c:\Users\Administrator\Desktop\finance\components\DatePicker.tsx", "TypeScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 4, 54
+"c:\Users\Administrator\Desktop\finance\components\Header.tsx", "TypeScript JSX", 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 5, 45
+"c:\Users\Administrator\Desktop\finance\components\ImportCard.tsx", "TypeScript JSX", 0, 115, 0, 0, 0, 0, 0, 0, 0, 0, 17, 132
+"c:\Users\Administrator\Desktop\finance\components\ImportTable.tsx", "TypeScript JSX", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 4, 56
+"c:\Users\Administrator\Desktop\finance\components\Nav.tsx", "TypeScript JSX", 0, 81, 0, 0, 0, 0, 0, 0, 0, 0, 8, 89
+"c:\Users\Administrator\Desktop\finance\components\NavButton.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"c:\Users\Administrator\Desktop\finance\components\Select.tsx", "TypeScript JSX", 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 6, 54
+"c:\Users\Administrator\Desktop\finance\components\TableHeadSelect.tsx", "TypeScript JSX", 0, 56, 0, 0, 0, 0, 0, 0, 0, 0, 7, 63
+"c:\Users\Administrator\Desktop\finance\components\UploadButton.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 5, 26
+"c:\Users\Administrator\Desktop\finance\components\ui\badge.tsx", "TypeScript JSX", 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 6, 38
+"c:\Users\Administrator\Desktop\finance\components\ui\button.tsx", "TypeScript JSX", 0, 52, 0, 0, 0, 0, 0, 0, 0, 0, 6, 58
+"c:\Users\Administrator\Desktop\finance\components\ui\calendar.tsx", "TypeScript JSX", 0, 67, 0, 0, 0, 0, 0, 0, 0, 0, 6, 73
+"c:\Users\Administrator\Desktop\finance\components\ui\card.tsx", "TypeScript JSX", 0, 68, 0, 0, 0, 0, 0, 0, 0, 0, 9, 77
+"c:\Users\Administrator\Desktop\finance\components\ui\checkbox.tsx", "TypeScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 5, 31
+"c:\Users\Administrator\Desktop\finance\components\ui\dialog.tsx", "TypeScript JSX", 0, 109, 0, 0, 0, 0, 0, 0, 0, 0, 14, 123
+"c:\Users\Administrator\Desktop\finance\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 187, 0, 0, 0, 0, 0, 0, 0, 0, 19, 206
+"c:\Users\Administrator\Desktop\finance\components\ui\form.tsx", "TypeScript JSX", 0, 153, 0, 0, 0, 0, 0, 0, 0, 0, 26, 179
+"c:\Users\Administrator\Desktop\finance\components\ui\input.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 5, 26
+"c:\Users\Administrator\Desktop\finance\components\ui\label.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 6, 27
+"c:\Users\Administrator\Desktop\finance\components\ui\popover.tsx", "TypeScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 8, 34
+"c:\Users\Administrator\Desktop\finance\components\ui\select.tsx", "TypeScript JSX", 0, 151, 0, 0, 0, 0, 0, 0, 0, 0, 14, 165
+"c:\Users\Administrator\Desktop\finance\components\ui\sheet.tsx", "TypeScript JSX", 0, 125, 0, 0, 0, 0, 0, 0, 0, 0, 16, 141
+"c:\Users\Administrator\Desktop\finance\components\ui\skeleton.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\Administrator\Desktop\finance\components\ui\sonner.tsx", "TypeScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 0, 0, 6, 32
+"c:\Users\Administrator\Desktop\finance\components\ui\table.tsx", "TypeScript JSX", 0, 110, 0, 0, 0, 0, 0, 0, 0, 0, 11, 121
+"c:\Users\Administrator\Desktop\finance\components\ui\textarea.tsx", "TypeScript JSX", 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"c:\Users\Administrator\Desktop\finance\components\ui\tooltip.tsx", "TypeScript JSX", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 8, 31
+"c:\Users\Administrator\Desktop\finance\db\drizzle.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 2, 6
+"c:\Users\Administrator\Desktop\finance\db\schema.ts", "TypeScript", 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 4, 53
+"c:\Users\Administrator\Desktop\finance\drizzle.config.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 3, 15
+"c:\Users\Administrator\Desktop\finance\drizzle\0000_nifty_moira_mactaggert.sql", "SQL", 0, 0, 0, 0, 0, 11, 0, 0, 0, 1, 1, 13
+"c:\Users\Administrator\Desktop\finance\drizzle\meta\0000_snapshot.json", "JSON", 0, 0, 0, 78, 0, 0, 0, 0, 0, 0, 0, 78
+"c:\Users\Administrator\Desktop\finance\drizzle\meta\_journal.json", "JSON", 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 13
+"c:\Users\Administrator\Desktop\finance\features\accounts\api\use-bulk-delete-accounts.ts", "TypeScript", 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"c:\Users\Administrator\Desktop\finance\features\accounts\api\use-create-account.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 5, 28
+"c:\Users\Administrator\Desktop\finance\features\accounts\api\use-delete-account.ts", "TypeScript", 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"c:\Users\Administrator\Desktop\finance\features\accounts\api\use-edit-account.ts", "TypeScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 5, 37
+"c:\Users\Administrator\Desktop\finance\features\accounts\api\use-get-accounts.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 6, 22
+"c:\Users\Administrator\Desktop\finance\features\accounts\api\use-get-single-account.ts", "TypeScript", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 6, 23
+"c:\Users\Administrator\Desktop\finance\features\accounts\components\account-form.tsx", "TypeScript JSX", 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 8, 87
+"c:\Users\Administrator\Desktop\finance\features\accounts\components\edit-account-sheet.tsx", "TypeScript JSX", 0, 84, 0, 0, 0, 0, 0, 0, 0, 0, 10, 94
+"c:\Users\Administrator\Desktop\finance\features\accounts\components\new-account-sheet.tsx", "TypeScript JSX", 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 6, 50
+"c:\Users\Administrator\Desktop\finance\features\accounts\hooks\use-new-account.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Administrator\Desktop\finance\features\accounts\hooks\use-open-account.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\Administrator\Desktop\finance\features\categories\api\use-bulk-delete-categories.ts", "TypeScript", 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"c:\Users\Administrator\Desktop\finance\features\categories\api\use-create-category.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 5, 28
+"c:\Users\Administrator\Desktop\finance\features\categories\api\use-delete-category.ts", "TypeScript", 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"c:\Users\Administrator\Desktop\finance\features\categories\api\use-edit-category.ts", "TypeScript", 0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 5, 37
+"c:\Users\Administrator\Desktop\finance\features\categories\api\use-get-categories.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 6, 22
+"c:\Users\Administrator\Desktop\finance\features\categories\api\use-get-single-category.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 6, 25
+"c:\Users\Administrator\Desktop\finance\features\categories\components\category-form.tsx", "TypeScript JSX", 0, 79, 0, 0, 0, 0, 0, 0, 0, 0, 8, 87
+"c:\Users\Administrator\Desktop\finance\features\categories\components\edit-category-sheet.tsx", "TypeScript JSX", 0, 84, 0, 0, 0, 0, 0, 0, 0, 0, 10, 94
+"c:\Users\Administrator\Desktop\finance\features\categories\components\new-category-sheet.tsx", "TypeScript JSX", 0, 44, 0, 0, 0, 0, 0, 0, 0, 0, 6, 50
+"c:\Users\Administrator\Desktop\finance\features\categories\hooks\use-new-category.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Administrator\Desktop\finance\features\categories\hooks\use-open-category.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\Administrator\Desktop\finance\features\transactions\api\use-bulk-create-transactions.ts", "TypeScript", 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"c:\Users\Administrator\Desktop\finance\features\transactions\api\use-bulk-delete-transactions.ts", "TypeScript", 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"c:\Users\Administrator\Desktop\finance\features\transactions\api\use-create-transaction.ts", "TypeScript", 0, 0, 25, 0, 0, 0, 0, 0, 0, 0, 5, 30
+"c:\Users\Administrator\Desktop\finance\features\transactions\api\use-delete-transaction.ts", "TypeScript", 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"c:\Users\Administrator\Desktop\finance\features\transactions\api\use-edit-transaction.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 5, 38
+"c:\Users\Administrator\Desktop\finance\features\transactions\api\use-get-single-transaction.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 6, 25
+"c:\Users\Administrator\Desktop\finance\features\transactions\api\use-get-transactions.ts", "TypeScript", 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 7, 38
+"c:\Users\Administrator\Desktop\finance\features\transactions\components\edit-transaction-sheet.tsx", "TypeScript JSX", 0, 122, 0, 0, 0, 0, 0, 0, 0, 0, 14, 136
+"c:\Users\Administrator\Desktop\finance\features\transactions\components\new-transaction-sheet.tsx", "TypeScript JSX", 0, 73, 0, 0, 0, 0, 0, 0, 0, 0, 10, 83
+"c:\Users\Administrator\Desktop\finance\features\transactions\components\transaction-form.tsx", "TypeScript JSX", 0, 188, 0, 0, 0, 0, 0, 0, 0, 0, 9, 197
+"c:\Users\Administrator\Desktop\finance\features\transactions\hooks\use-new-transaction.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"c:\Users\Administrator\Desktop\finance\features\transactions\hooks\use-open-transaction.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"c:\Users\Administrator\Desktop\finance\hooks\use-confirm.tsx", "TypeScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 8, 58
+"c:\Users\Administrator\Desktop\finance\lib\hono.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 2, 5
+"c:\Users\Administrator\Desktop\finance\lib\statement.csv", "CSV", 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\Administrator\Desktop\finance\lib\utils.ts", "TypeScript", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 5, 23
+"c:\Users\Administrator\Desktop\finance\middleware.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 0, 0, 2, 5, 22
+"c:\Users\Administrator\Desktop\finance\next.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 2, 5
+"c:\Users\Administrator\Desktop\finance\package-lock.json", "JSON", 0, 0, 0, 8703, 0, 0, 0, 0, 0, 0, 1, 8704
+"c:\Users\Administrator\Desktop\finance\package.json", "JSON", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 1, 71
+"c:\Users\Administrator\Desktop\finance\postcss.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 2, 9
+"c:\Users\Administrator\Desktop\finance\providers\query-provider.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 6, 33
+"c:\Users\Administrator\Desktop\finance\providers\sheet-provider.tsx", "TypeScript JSX", 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 7, 29
+"c:\Users\Administrator\Desktop\finance\tailwind.config.ts", "TypeScript", 0, 0, 63, 0, 0, 0, 0, 0, 0, 0, 2, 65
+"c:\Users\Administrator\Desktop\finance\tsconfig.json", "JSON with Comments", 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 27
+"Total", "-", 26, 3662, 1267, 8887, 3, 11, 8, 86, 23, 6, 697, 14676

@@ -1,0 +1,176 @@
+Date : 2024-09-26 21:07:39
+Directory : c:\Users\Administrator\Desktop\finance
+Total : 106 files,  13973 codes, 6 comments, 697 blanks, all 14676 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |      8,887 |          0 |          3 |      8,890 |
+| TypeScript JSX     |         57 |      3,662 |          1 |        437 |      4,100 |
+| TypeScript         |         36 |      1,267 |          2 |        230 |      1,499 |
+| CSS                |          1 |         86 |          0 |          7 |         93 |
+| JSON with Comments |          1 |         26 |          0 |          1 |         27 |
+| Markdown           |          1 |         23 |          0 |         14 |         37 |
+| SQL                |          1 |         11 |          1 |          1 |         13 |
+| JavaScript         |          2 |          8 |          2 |          4 |         14 |
+| CSV                |          1 |          3 |          0 |          0 |          3 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |        106 |     13,973 |          6 |        697 |     14,676 |
+| . (Files)                                                                                          |         11 |      8,943 |          4 |         32 |      8,979 |
+| app                                                                                                |         21 |      1,438 |          1 |        181 |      1,620 |
+| app (Files)                                                                                        |          2 |        117 |          1 |         12 |        130 |
+| app\(auth)                                                                                         |          2 |         54 |          0 |          6 |         60 |
+| app\(auth)\sign-in                                                                                 |          1 |         27 |          0 |          3 |         30 |
+| app\(auth)\sign-in\[[...sign-in]]                                                                  |          1 |         27 |          0 |          3 |         30 |
+| app\(auth)\sign-up                                                                                 |          1 |         27 |          0 |          3 |         30 |
+| app\(auth)\sign-up\[[...sign-up]]                                                                  |          1 |         27 |          0 |          3 |         30 |
+| app\(dashboard)                                                                                    |         13 |        723 |          0 |         76 |        799 |
+| app\(dashboard) (Files)                                                                            |          2 |         24 |          0 |          5 |         29 |
+| app\(dashboard)\accounts                                                                           |          3 |        169 |          0 |         18 |        187 |
+| app\(dashboard)\categories                                                                         |          3 |        169 |          0 |         18 |        187 |
+| app\(dashboard)\transactions                                                                       |          5 |        361 |          0 |         35 |        396 |
+| app\api                                                                                            |          4 |        544 |          0 |         87 |        631 |
+| app\api\[[...route]]                                                                               |          4 |        544 |          0 |         87 |        631 |
+| components                                                                                         |         29 |      1,958 |          0 |        248 |      2,206 |
+| components (Files)                                                                                 |         11 |        728 |          0 |         75 |        803 |
+| components\ui                                                                                      |         18 |      1,230 |          0 |        173 |      1,403 |
+| db                                                                                                 |          2 |         53 |          0 |          6 |         59 |
+| drizzle                                                                                            |          3 |        102 |          1 |          1 |        104 |
+| drizzle (Files)                                                                                    |          1 |         11 |          1 |          1 |         13 |
+| drizzle\meta                                                                                       |          2 |         91 |          0 |          0 |         91 |
+| features                                                                                           |         34 |      1,356 |          0 |        201 |      1,557 |
+| features\accounts                                                                                  |         11 |        376 |          0 |         62 |        438 |
+| features\accounts\api                                                                              |          6 |        145 |          0 |         32 |        177 |
+| features\accounts\components                                                                       |          3 |        207 |          0 |         24 |        231 |
+| features\accounts\hooks                                                                            |          2 |         24 |          0 |          6 |         30 |
+| features\categories                                                                                |         11 |        378 |          0 |         62 |        440 |
+| features\categories\api                                                                            |          6 |        147 |          0 |         32 |        179 |
+| features\categories\components                                                                     |          3 |        207 |          0 |         24 |        231 |
+| features\categories\hooks                                                                          |          2 |         24 |          0 |          6 |         30 |
+| features\transactions                                                                              |         12 |        602 |          0 |         77 |        679 |
+| features\transactions\api                                                                          |          7 |        195 |          0 |         38 |        233 |
+| features\transactions\components                                                                   |          3 |        383 |          0 |         33 |        416 |
+| features\transactions\hooks                                                                        |          2 |         24 |          0 |          6 |         30 |
+| hooks                                                                                              |          1 |         50 |          0 |          8 |         58 |
+| lib                                                                                                |          3 |         24 |          0 |          7 |         31 |
+| providers                                                                                          |          2 |         49 |          0 |         13 |         62 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                           | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Administrator\Desktop\finance\.eslintrc.json                                              | JSON               |          3 |          0 |          1 |          4 |
+| c:\Users\Administrator\Desktop\finance\README.md                                                   | Markdown           |         23 |          0 |         14 |         37 |
+| c:\Users\Administrator\Desktop\finance\app\(auth)\sign-in\[[...sign-in]]\page.tsx                  | TypeScript JSX     |         27 |          0 |          3 |         30 |
+| c:\Users\Administrator\Desktop\finance\app\(auth)\sign-up\[[...sign-up]]\page.tsx                  | TypeScript JSX     |         27 |          0 |          3 |         30 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\accounts\actions.tsx                        | TypeScript JSX     |         58 |          0 |          7 |         65 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\accounts\columns.tsx                        | TypeScript JSX     |         55 |          0 |          4 |         59 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\accounts\page.tsx                           | TypeScript JSX     |         56 |          0 |          7 |         63 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\categories\actions.tsx                      | TypeScript JSX     |         58 |          0 |          7 |         65 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\categories\columns.tsx                      | TypeScript JSX     |         55 |          0 |          4 |         59 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\categories\page.tsx                         | TypeScript JSX     |         56 |          0 |          7 |         63 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\layout.tsx                                  | TypeScript JSX     |         13 |          0 |          3 |         16 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\page.tsx                                    | TypeScript JSX     |         11 |          0 |          2 |         13 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\account-column.tsx             | TypeScript JSX     |         24 |          0 |          5 |         29 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\actions.tsx                    | TypeScript JSX     |         58 |          0 |          8 |         66 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\category-column.tsx            | TypeScript JSX     |         38 |          0 |          5 |         43 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\columns.tsx                    | TypeScript JSX     |        148 |          0 |          4 |        152 |
+| c:\Users\Administrator\Desktop\finance\app\(dashboard)\transactions\page.tsx                       | TypeScript JSX     |         93 |          0 |         13 |        106 |
+| c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\accounts.ts                            | TypeScript         |        143 |          0 |         24 |        167 |
+| c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\categories.ts                          | TypeScript         |        143 |          0 |         24 |        167 |
+| c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\route.ts                               | TypeScript         |         15 |          0 |          6 |         21 |
+| c:\Users\Administrator\Desktop\finance\app\api\[[...route]]\transactions.ts                        | TypeScript         |        243 |          0 |         33 |        276 |
+| c:\Users\Administrator\Desktop\finance\app\globals.css                                             | CSS                |         86 |          0 |          7 |         93 |
+| c:\Users\Administrator\Desktop\finance\app\layout.tsx                                              | TypeScript JSX     |         31 |          1 |          5 |         37 |
+| c:\Users\Administrator\Desktop\finance\components.json                                             | JSON               |         20 |          0 |          0 |         20 |
+| c:\Users\Administrator\Desktop\finance\components\AmountInput.tsx                                  | TypeScript JSX     |         71 |          0 |          8 |         79 |
+| c:\Users\Administrator\Desktop\finance\components\DataTable.tsx                                    | TypeScript JSX     |        169 |          0 |          7 |        176 |
+| c:\Users\Administrator\Desktop\finance\components\DatePicker.tsx                                   | TypeScript JSX     |         50 |          0 |          4 |         54 |
+| c:\Users\Administrator\Desktop\finance\components\Header.tsx                                       | TypeScript JSX     |         40 |          0 |          5 |         45 |
+| c:\Users\Administrator\Desktop\finance\components\ImportCard.tsx                                   | TypeScript JSX     |        115 |          0 |         17 |        132 |
+| c:\Users\Administrator\Desktop\finance\components\ImportTable.tsx                                  | TypeScript JSX     |         52 |          0 |          4 |         56 |
+| c:\Users\Administrator\Desktop\finance\components\Nav.tsx                                          | TypeScript JSX     |         81 |          0 |          8 |         89 |
+| c:\Users\Administrator\Desktop\finance\components\NavButton.tsx                                    | TypeScript JSX     |         25 |          0 |          4 |         29 |
+| c:\Users\Administrator\Desktop\finance\components\Select.tsx                                       | TypeScript JSX     |         48 |          0 |          6 |         54 |
+| c:\Users\Administrator\Desktop\finance\components\TableHeadSelect.tsx                              | TypeScript JSX     |         56 |          0 |          7 |         63 |
+| c:\Users\Administrator\Desktop\finance\components\UploadButton.tsx                                 | TypeScript JSX     |         21 |          0 |          5 |         26 |
+| c:\Users\Administrator\Desktop\finance\components\ui\badge.tsx                                     | TypeScript JSX     |         32 |          0 |          6 |         38 |
+| c:\Users\Administrator\Desktop\finance\components\ui\button.tsx                                    | TypeScript JSX     |         52 |          0 |          6 |         58 |
+| c:\Users\Administrator\Desktop\finance\components\ui\calendar.tsx                                  | TypeScript JSX     |         67 |          0 |          6 |         73 |
+| c:\Users\Administrator\Desktop\finance\components\ui\card.tsx                                      | TypeScript JSX     |         68 |          0 |          9 |         77 |
+| c:\Users\Administrator\Desktop\finance\components\ui\checkbox.tsx                                  | TypeScript JSX     |         26 |          0 |          5 |         31 |
+| c:\Users\Administrator\Desktop\finance\components\ui\dialog.tsx                                    | TypeScript JSX     |        109 |          0 |         14 |        123 |
+| c:\Users\Administrator\Desktop\finance\components\ui\dropdown-menu.tsx                             | TypeScript JSX     |        187 |          0 |         19 |        206 |
+| c:\Users\Administrator\Desktop\finance\components\ui\form.tsx                                      | TypeScript JSX     |        153 |          0 |         26 |        179 |
+| c:\Users\Administrator\Desktop\finance\components\ui\input.tsx                                     | TypeScript JSX     |         21 |          0 |          5 |         26 |
+| c:\Users\Administrator\Desktop\finance\components\ui\label.tsx                                     | TypeScript JSX     |         21 |          0 |          6 |         27 |
+| c:\Users\Administrator\Desktop\finance\components\ui\popover.tsx                                   | TypeScript JSX     |         26 |          0 |          8 |         34 |
+| c:\Users\Administrator\Desktop\finance\components\ui\select.tsx                                    | TypeScript JSX     |        151 |          0 |         14 |        165 |
+| c:\Users\Administrator\Desktop\finance\components\ui\sheet.tsx                                     | TypeScript JSX     |        125 |          0 |         16 |        141 |
+| c:\Users\Administrator\Desktop\finance\components\ui\skeleton.tsx                                  | TypeScript JSX     |         13 |          0 |          3 |         16 |
+| c:\Users\Administrator\Desktop\finance\components\ui\sonner.tsx                                    | TypeScript JSX     |         26 |          0 |          6 |         32 |
+| c:\Users\Administrator\Desktop\finance\components\ui\table.tsx                                     | TypeScript JSX     |        110 |          0 |         11 |        121 |
+| c:\Users\Administrator\Desktop\finance\components\ui\textarea.tsx                                  | TypeScript JSX     |         20 |          0 |          5 |         25 |
+| c:\Users\Administrator\Desktop\finance\components\ui\tooltip.tsx                                   | TypeScript JSX     |         23 |          0 |          8 |         31 |
+| c:\Users\Administrator\Desktop\finance\db\drizzle.ts                                               | TypeScript         |          4 |          0 |          2 |          6 |
+| c:\Users\Administrator\Desktop\finance\db\schema.ts                                                | TypeScript         |         49 |          0 |          4 |         53 |
+| c:\Users\Administrator\Desktop\finance\drizzle.config.ts                                           | TypeScript         |         12 |          0 |          3 |         15 |
+| c:\Users\Administrator\Desktop\finance\drizzle\0000_nifty_moira_mactaggert.sql                     | SQL                |         11 |          1 |          1 |         13 |
+| c:\Users\Administrator\Desktop\finance\drizzle\meta\0000_snapshot.json                             | JSON               |         78 |          0 |          0 |         78 |
+| c:\Users\Administrator\Desktop\finance\drizzle\meta\_journal.json                                  | JSON               |         13 |          0 |          0 |         13 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\api\use-bulk-delete-accounts.ts           | TypeScript         |         29 |          0 |          5 |         34 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\api\use-create-account.ts                 | TypeScript         |         23 |          0 |          5 |         28 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\api\use-delete-account.ts                 | TypeScript         |         28 |          0 |          5 |         33 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\api\use-edit-account.ts                   | TypeScript         |         32 |          0 |          5 |         37 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\api\use-get-accounts.ts                   | TypeScript         |         16 |          0 |          6 |         22 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\api\use-get-single-account.ts             | TypeScript         |         17 |          0 |          6 |         23 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\components\account-form.tsx               | TypeScript JSX     |         79 |          0 |          8 |         87 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\components\edit-account-sheet.tsx         | TypeScript JSX     |         84 |          0 |         10 |         94 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\components\new-account-sheet.tsx          | TypeScript JSX     |         44 |          0 |          6 |         50 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\hooks\use-new-account.ts                  | TypeScript         |         11 |          0 |          3 |         14 |
+| c:\Users\Administrator\Desktop\finance\features\accounts\hooks\use-open-account.ts                 | TypeScript         |         13 |          0 |          3 |         16 |
+| c:\Users\Administrator\Desktop\finance\features\categories\api\use-bulk-delete-categories.ts       | TypeScript         |         29 |          0 |          5 |         34 |
+| c:\Users\Administrator\Desktop\finance\features\categories\api\use-create-category.ts              | TypeScript         |         23 |          0 |          5 |         28 |
+| c:\Users\Administrator\Desktop\finance\features\categories\api\use-delete-category.ts              | TypeScript         |         28 |          0 |          5 |         33 |
+| c:\Users\Administrator\Desktop\finance\features\categories\api\use-edit-category.ts                | TypeScript         |         32 |          0 |          5 |         37 |
+| c:\Users\Administrator\Desktop\finance\features\categories\api\use-get-categories.ts               | TypeScript         |         16 |          0 |          6 |         22 |
+| c:\Users\Administrator\Desktop\finance\features\categories\api\use-get-single-category.ts          | TypeScript         |         19 |          0 |          6 |         25 |
+| c:\Users\Administrator\Desktop\finance\features\categories\components\category-form.tsx            | TypeScript JSX     |         79 |          0 |          8 |         87 |
+| c:\Users\Administrator\Desktop\finance\features\categories\components\edit-category-sheet.tsx      | TypeScript JSX     |         84 |          0 |         10 |         94 |
+| c:\Users\Administrator\Desktop\finance\features\categories\components\new-category-sheet.tsx       | TypeScript JSX     |         44 |          0 |          6 |         50 |
+| c:\Users\Administrator\Desktop\finance\features\categories\hooks\use-new-category.ts               | TypeScript         |         11 |          0 |          3 |         14 |
+| c:\Users\Administrator\Desktop\finance\features\categories\hooks\use-open-category.ts              | TypeScript         |         13 |          0 |          3 |         16 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\api\use-bulk-create-transactions.ts   | TypeScript         |         29 |          0 |          5 |         34 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\api\use-bulk-delete-transactions.ts   | TypeScript         |         29 |          0 |          5 |         34 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\api\use-create-transaction.ts         | TypeScript         |         25 |          0 |          5 |         30 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\api\use-delete-transaction.ts         | TypeScript         |         29 |          0 |          5 |         34 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\api\use-edit-transaction.ts           | TypeScript         |         33 |          0 |          5 |         38 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\api\use-get-single-transaction.ts     | TypeScript         |         19 |          0 |          6 |         25 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\api\use-get-transactions.ts           | TypeScript         |         31 |          0 |          7 |         38 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\components\edit-transaction-sheet.tsx | TypeScript JSX     |        122 |          0 |         14 |        136 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\components\new-transaction-sheet.tsx  | TypeScript JSX     |         73 |          0 |         10 |         83 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\components\transaction-form.tsx       | TypeScript JSX     |        188 |          0 |          9 |        197 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\hooks\use-new-transaction.ts          | TypeScript         |         11 |          0 |          3 |         14 |
+| c:\Users\Administrator\Desktop\finance\features\transactions\hooks\use-open-transaction.ts         | TypeScript         |         13 |          0 |          3 |         16 |
+| c:\Users\Administrator\Desktop\finance\hooks\use-confirm.tsx                                       | TypeScript JSX     |         50 |          0 |          8 |         58 |
+| c:\Users\Administrator\Desktop\finance\lib\hono.ts                                                 | TypeScript         |          3 |          0 |          2 |          5 |
+| c:\Users\Administrator\Desktop\finance\lib\statement.csv                                           | CSV                |          3 |          0 |          0 |          3 |
+| c:\Users\Administrator\Desktop\finance\lib\utils.ts                                                | TypeScript         |         18 |          0 |          5 |         23 |
+| c:\Users\Administrator\Desktop\finance\middleware.ts                                               | TypeScript         |         15 |          2 |          5 |         22 |
+| c:\Users\Administrator\Desktop\finance\next.config.mjs                                             | JavaScript         |          2 |          1 |          2 |          5 |
+| c:\Users\Administrator\Desktop\finance\package-lock.json                                           | JSON               |      8,703 |          0 |          1 |      8,704 |
+| c:\Users\Administrator\Desktop\finance\package.json                                                | JSON               |         70 |          0 |          1 |         71 |
+| c:\Users\Administrator\Desktop\finance\postcss.config.mjs                                          | JavaScript         |          6 |          1 |          2 |          9 |
+| c:\Users\Administrator\Desktop\finance\providers\query-provider.tsx                                | TypeScript JSX     |         27 |          0 |          6 |         33 |
+| c:\Users\Administrator\Desktop\finance\providers\sheet-provider.tsx                                | TypeScript JSX     |         22 |          0 |          7 |         29 |
+| c:\Users\Administrator\Desktop\finance\tailwind.config.ts                                          | TypeScript         |         63 |          0 |          2 |         65 |
+| c:\Users\Administrator\Desktop\finance\tsconfig.json                                               | JSON with Comments |         26 |          0 |          1 |         27 |
+| Total                                                                                              |                    |     13,973 |          6 |        697 |     14,676 |
++----------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
