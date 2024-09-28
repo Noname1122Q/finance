@@ -4,6 +4,7 @@ import Link from "next/link";
 import Nav from "@/components/Nav";
 import { ClerkLoaded, ClerkLoading, UserButton, useUser } from "@clerk/nextjs";
 import { Loader2 } from "lucide-react";
+import Filters from "./Filters";
 
 const Header = () => {
   const { user, isLoaded } = useUser();
@@ -36,6 +37,7 @@ const Header = () => {
             This is your financial report.
           </p>
         </div>
+        <Filters />
       </div>
     </header>
   );
